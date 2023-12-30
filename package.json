@@ -1,7 +1,7 @@
 {
   "name": "kimberlychueca",
   "version": "0.1.0",
-  "homepage": "http://kimberlychueca.com.ar",
+  "homepage": "https://kimberlychueca.com.ar",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
